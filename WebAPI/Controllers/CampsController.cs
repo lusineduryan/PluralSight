@@ -18,6 +18,7 @@ namespace CoreCodeCamp.Controllers
         public CampsController(CampContext context)
         {
             _context = context;
+
         }
 
         // GET: api/Camps
